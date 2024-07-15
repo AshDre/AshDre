@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! 👋 I'm [Ashley Dreyer]</h1>
 
 <!-- Intro -->
-<p align="center">Junior Software Engineer | Python | Version Control + Git | SQL | SQLite </p>
+<p align="center">Junior Software Engineer | Python | Version Control + Git | SQL | SQLite </p> 💻👾
 
 <!-- Main Content -->
 ## About Me

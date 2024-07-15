@@ -37,7 +37,7 @@ A program that allows a book clerk to add, remove and alter information of books
 ## Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashley-dreyer-b3b460302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/">
+  <a href="https://www.linkedin.com/in/ashley-dreyer-b3b460302/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="dashley26@gmail.com">
